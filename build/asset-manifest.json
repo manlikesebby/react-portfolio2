@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db25ad76.css",
+    "main.js": "/static/js/main.27acd26e.js",
+    "static/media/hero-image.jpg": "/static/media/hero-image.38b9339fc74c3867c872.jpg",
+    "static/media/portfolio-img3.png": "/static/media/portfolio-img3.75615f38e21be76be099.png",
+    "static/media/portfolio-img2.png": "/static/media/portfolio-img2.75c8cc234db4836897c0.png",
+    "static/media/portfolio-img1.png": "/static/media/portfolio-img1.12abf71aa394805bbb0d.png",
+    "static/media/ominimart.JPG": "/static/media/ominimart.8cd29c79e4e43a2d2488.JPG",
+    "static/media/Botiga.JPG": "/static/media/Botiga.2f8fc1704ecf6c400fd6.JPG",
+    "index.html": "/index.html",
+    "main.db25ad76.css.map": "/static/css/main.db25ad76.css.map",
+    "main.27acd26e.js.map": "/static/js/main.27acd26e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db25ad76.css",
+    "static/js/main.27acd26e.js"
+  ]
+}

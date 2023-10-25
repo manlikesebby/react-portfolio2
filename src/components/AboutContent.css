@@ -1,0 +1,45 @@
+.about{
+    width: 100%;
+    margin: 3rem 0;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100%;
+
+}
+
+.about .left{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 350px;
+}
+
+.about .left p{
+    margin: 1.2rem 0;
+}
+
+.about .right{
+    text-align: center;
+    margin: auto;
+    padding: rem;
+    max-width: 350px;
+    font-size: 1.2rem 0;
+    
+}
+
+.about .right p{
+    padding: 1rem 0;
+
+}
+
+@media screen and (max-width: 740px){
+    .about{
+        margin: 1.2rem;
+    }
+    
+    .about .right p{
+        padding: 1rem;
+    
+    }
+}
